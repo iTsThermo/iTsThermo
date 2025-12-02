@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Kanojia</h1>
-<h3 align="center">Full Stack Software Developer | Data Analytics Enthusiast | Cybersecurity Minor</h3>
+<h3 align="center">Full Stack Software Developer | Data Analytics | Cybersecurity Minor</h3>
 
 <p align="center">
   <a href="mailto:vansh.kanojia@pace.edu">Email</a> •

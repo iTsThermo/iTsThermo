@@ -97,9 +97,15 @@ I am a Computer Science graduate from **Pace University** and currently pursuing
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iTsThermo&show_icons=true&theme=default" alt="Vansh's Github Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTsThermo&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTsThermo&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iTsThermo&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTsThermo&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iTsThermo&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iTsThermo&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </p>
